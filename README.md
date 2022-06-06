@@ -6,6 +6,8 @@
  This is my personal website
 ### Technologies Used
  HTML, CSS, JAVASCRIPT
- ### Contact Me
+ #### License
+ MIT
+ #### Contact Me
  You can reach me at jaydenryki@gmail.com
 
